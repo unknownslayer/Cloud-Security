@@ -152,3 +152,9 @@ OWASP ZAP, Nessus, Burp Suite, Nmap, WPScan, WordFence, Sucuri Security, Jetpack
 
 <h4>Testing Tools: </h4>
 UpGuard, Pentest-Tools, ImmuniWeb
+
+<h2>Appendix</h2>
+git add images/
+git commit -m "Added images folder"
+git push origin main
+
