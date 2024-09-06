@@ -165,10 +165,36 @@ UpGuard, Pentest-Tools, ImmuniWeb
 ### 3. AWS CloudWatch Setup
 ![AWS CloudWatch Alarm](Images/Cloud%20watch.jpg)
 
-### 3. 
-![AWS CloudWatch Alarm](Images/Cloud%20watch.jpg)
+### 4. Datadog
+![Datadog](Images/Datadog.jpg)
 
-### 4. Burp Suite Vulnerability Scan
-![Burp Suite Scan](./images/burp-suite-scan.png)
+### 5. Nmap advance scan
+![Nmap advance scan](Images/Nessus%20advance%20scan.jpg)
 
+### 6. Nmap
+![Nmap](Images/Nmap.jpg)
+
+### 7. Owasp Zap
+![Owasp zap](Images/OWASP%20ZAP%202%20report.jpg)
+
+### 8. Wpscan
+![Wpscan](Images/wpscan%20after%20mitigating.jpg)
+
+### 9. BurpSuite
+![BurpSuite](Images/Burpsuite.jpg)
+
+### 10. Overview of Cloud Flare
+![Cloud Flare](Images/Overview%20of%20cloudflare.jpg)
+
+### 11. Rules Cloud Flare
+![Rules for Cloud Flare](Images/Rules%20to%20configure%20cloudflare.jpg)
+
+### 12. Cloud Flare Setup
+![Cloud Flare Setup](Images/Cloudflare%20setup.jpg)
+
+### 13. Configuring Cloud Flare to get a CA-Signed Certificate
+![Ca-Certificate](Images/ConfiguringCloudflaretogetCAsignedcertificate.jpg)
+
+### 14. DNS management through Cloud Flare
+![DNS management through Cloud Flare](Images/DNS%20management%20through%20cloudflare.jpg)
 
