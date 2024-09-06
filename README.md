@@ -154,7 +154,18 @@ OWASP ZAP, Nessus, Burp Suite, Nmap, WPScan, WordFence, Sucuri Security, Jetpack
 UpGuard, Pentest-Tools, ImmuniWeb
 
 <h2>Appendix</h2>
-git add Images
-git commit -m "Added images folder"
-git push origin main
+## Project Screenshots
+
+### 1. EC2 Instance Setup
+![EC2 Instance Setup](./images/ec2-instance-setup.png)
+
+### 2. WordPress Installation
+![WordPress Installation](./images/wordpress-install.png)
+
+### 3. AWS CloudWatch Alarm Setup
+![AWS CloudWatch Alarm](./images/cloudwatch-alarm.png)
+
+### 4. Burp Suite Vulnerability Scan
+![Burp Suite Scan](./images/burp-suite-scan.png)
+
 
