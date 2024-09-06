@@ -154,7 +154,7 @@ OWASP ZAP, Nessus, Burp Suite, Nmap, WPScan, WordFence, Sucuri Security, Jetpack
 UpGuard, Pentest-Tools, ImmuniWeb
 
 <h2>Appendix</h2>
-git add images/
+git add Images
 git commit -m "Added images folder"
 git push origin main
 
