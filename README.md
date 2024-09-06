@@ -157,13 +157,16 @@ UpGuard, Pentest-Tools, ImmuniWeb
 ## Project Screenshots
 
 ### 1. EC2 Instance Setup
-![EC2 Instance Setup](./images/ec2-instance-setup.png)
+![EC2 Instance Setup](./Images/Instance%20of%20the%20Project.jpg)]
 
 ### 2. WordPress Installation
-![WordPress Installation](./images/wordpress-install.png)
+![WordPress Installation](Images/UI.jpg)
 
-### 3. AWS CloudWatch Alarm Setup
-![AWS CloudWatch Alarm](./images/cloudwatch-alarm.png)
+### 3. AWS CloudWatch Setup
+![AWS CloudWatch Alarm](Images/Cloud%20watch.jpg)
+
+### 3. 
+![AWS CloudWatch Alarm](Images/Cloud%20watch.jpg)
 
 ### 4. Burp Suite Vulnerability Scan
 ![Burp Suite Scan](./images/burp-suite-scan.png)
